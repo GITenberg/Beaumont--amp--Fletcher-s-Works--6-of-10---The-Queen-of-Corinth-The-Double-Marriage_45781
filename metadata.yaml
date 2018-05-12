@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '956'
     url: http://www.gutenberg.org/2009/agents/956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45781#Beaumont--amp--Fletcher-s-Works--6-of-10---The-Queen-of-Corinth-The-Double-Marriage
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
 identifiers:
